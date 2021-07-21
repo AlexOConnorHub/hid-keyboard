@@ -1,6 +1,6 @@
 {
   "name": "HID Keyboard",
-  "url": "github.com/AlexOConnorHub/hid-keyboard",
+  "url": "https://github.com/AlexOConnorHub/hid-keyboard",
   "description": "Gets HID keyboard output, and allows integration with GNOME",
   "uuid": "HID-Keyboard@AlexOConnorHub.github.com",
   "shell-version": [
